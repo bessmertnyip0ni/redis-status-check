@@ -7,4 +7,3 @@
 * podman build -t test-redis .
 * podman run --network=host test-redis\n
 
-che po kaifu
